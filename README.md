@@ -90,3 +90,4 @@ print(tokenizer.decode(outputs[0]))
 
 ## OUTPUT:-
 
+![Image](https://github.com/user-attachments/assets/b3a1172e-ecd8-406a-a2c5-dc0166b5b83e)
